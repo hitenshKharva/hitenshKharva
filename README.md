@@ -25,6 +25,10 @@
   </td>
 </tr>
 </table>
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{hitenshKharva}/count.svg" alt="hitenshKharva :: Visitor's Count" /></p>
 <!--
 **hitenshKharva/hitenshKharva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
