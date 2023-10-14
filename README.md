@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+<div align="center">
+  <a href="https://hitenshkharva.github.io/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 <!--
 **hitenshKharva/hitenshKharva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
