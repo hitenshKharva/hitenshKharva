@@ -1,11 +1,13 @@
-### Hi there 👋, Hitensh here!!
+### Welcome to Hitensh Github Profile!! 👋
 
-<p>I am a Data Engineer,I like to work on Data. Feed Me Data!!</p>
+<p> Hi there, I am Hitensh Kharva, Graduated with a Master in Computer Science from San Diego State University. </p>
+<p>I am a Data Engineer. Feed Me Data!!</p>
 
 <ul>
   <li>👋 Hi, I’m @hitenshKharva</li>
   <li>❤️ I love creating handling data and automating .</li>
   <li>🌱 I’m currently learning Apache Kafka, Databricks, and preparing for Azure Data Engineering Associate.</li>
+  <li>👯 Contributed to Open Source Projects and looking forward for more contributions.</li>
   <li>💼 I'm a Data Developer at Wind River Systems.</li>
   <li>🧐 Portfolio Website, https://hitenshkharva.github.io/</li>
 </ul>
@@ -40,6 +42,12 @@
 </tr>
 </table>
 
+<Br>
+<h1 align="center">Get in Touch! 📬</h1>
+<Br>
+<p align="center">
+<a href="https://www.linkedin.com/in/hitenshkharva" target="blank"><img align="center" src="https://img.shields.io/badge/Hitensh Kharva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:hkharva3283@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/hkharva3283@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/hitenshKharva" target="blank"><img align="center" src="https://img.shields.io/badge/hitenshKharva-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 <!--
 **hitenshKharva/hitenshKharva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
