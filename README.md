@@ -5,7 +5,7 @@
 
 <ul>
   <li>👋 Hi, I’m @hitenshKharva</li>
-  <li>❤️ I love creating handling data and automating .</li>
+  <li>❤️ I love handling data and automating .</li>
   <li>🌱 I’m currently learning Apache Kafka, Databricks, and preparing for Azure Data Engineering Associate.</li>
   <li>👯 Contributed to Open Source Projects and looking forward for more contributions.</li>
   <li>💼 I'm a Data Developer at Wind River Systems.</li>
