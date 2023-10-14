@@ -19,7 +19,7 @@
 
 <div align="center">
   <a href="https://hitenshkharva.github.io/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/hitenshKharva/hitenshKharva/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 <p align="center">
