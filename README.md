@@ -1,4 +1,4 @@
-### Welcome to Hitensh Github Profile!! 👋
+### Welcome to Hitensh Kharva's Profile!! 👋
 
 <p> Hi there, I am Hitensh Kharva, Graduated with a Master in Computer Science from San Diego State University. </p>
 <p>I am a Data Engineer. Feed Me Data!!</p>
