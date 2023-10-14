@@ -18,9 +18,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{hitenshKharva}/count.svg" alt="hitenshKharva :: Visitor's Count" /></p>
 
 <div align="center">
-  <a href="https://hitenshkharva.github.io/">
-  <img  src="https://github.com/hitenshKharva/hitenshKharva/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  ![Snake animation](https://github.com/hitenshKharva/hitenshKharva/blob/output/github-contribution-grid-snake.svg)
 </div>
 <p align="center">
   <h2 align="center">My Stats 🏆</h2>
