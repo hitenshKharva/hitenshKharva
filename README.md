@@ -10,9 +10,10 @@
   <li>👯 Contributed to Open Source Projects and looking forward for more contributions.</li>
   <li>💼 I'm a Data Developer at Wind River Systems.</li>
   <li>🧐 Portfolio Website, https://hitenshkharva.github.io/</li>
+  <li>⚡ I play soccer⚽, video games🎮 and table tennis🏓.</li>
 </ul>
 
-<h4 align="center">Visitor's count :eyes:</h4>
+<h2 align="center">Visitor's count :eyes:</h2>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{hitenshKharva}/count.svg" alt="hitenshKharva :: Visitor's Count" /></p>
 
@@ -21,8 +22,9 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
 <p align="center">
+  <h2 align="center">My Stats 🏆</h2>
+
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
@@ -43,7 +45,7 @@
 </table>
 
 <Br>
-<h1 align="center">Get in Touch! 📬</h1>
+<h2 align="center">Get in Touch! 📬</h2>
 <Br>
 <p align="center">
 <a href="https://www.linkedin.com/in/hitensh-kharva" target="blank"><img align="center" src="https://img.shields.io/badge/Hitensh Kharva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:hkharva3283@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/hkharva3283@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/hitenshKharva" target="blank"><img align="center" src="https://img.shields.io/badge/hitenshKharva-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
