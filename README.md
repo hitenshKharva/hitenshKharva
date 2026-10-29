@@ -1,65 +1,31 @@
-# Welcome to Hitensh Kharva's Profile!! 👋
+# Hi, I'm Hitensh 👋
 
-<p> Hi there, I am Hitensh Kharva, Graduated with a Master in Computer Science from San Diego State University. </p>
-<p>I am a Data Engineer. Feed Me Data!!</p>
+**Data Engineer II at Amazon** · Seattle, WA
+I build the platforms data flows through, and the AI that puts it to work.
 
-<ul>
-  <li>👋 Hi, I’m @hitenshKharva</li>
-  <li>❤️ I love handling data and automating.</li>
-  <li>🌱 I’m currently learning Apache Kafka, Databricks, and preparing for Azure Data Engineering Associate.</li>
-  <li>👯 Contributed to Open Source Projects and looking forward for more contributions.</li>
-  <li>💼 I'm a Data Developer at Wind River Systems.</li>
-  <li>🧐 Portfolio Website, https://hitenshkharva.github.io/</li>
-  <li>⚡ I play soccer⚽, video games🎮 and table tennis🏓.</li>
-</ul>
+🌐 [Portfolio](https://hitenshkharva.github.io/) · 💼 [LinkedIn](https://www.linkedin.com/in/hitensh-kharva) · ✉️ hkharva3283@gmail.com
 
-<h2 align="center">Visitor's count :eyes:</h2>
+## What I work on
 
-<p align="center"><img src="https://profile-counter.glitch.me/{hitenshKharva}/count.svg" alt="hitenshKharva :: Visitor's Count" /></p>
+- **AI agents in production:** an LLM agent that clears data-warehouse congestion with no human in the loop, and a multi-agent support platform.
+- **RAG for operations:** a ticket-triage assistant that cut on-call analysis from 15 to 3 minutes.
+- **Data platforms:** a self-service ingestion platform used by 13+ teams, and the curated data foundation behind an AI planning agent, served over MCP.
+- **Before Amazon:** Ruby support for AWS CodeArtifact (SDE, AWS), dbt and Snowflake pipelines at Wind River, backend Python at Bloomstack, banking software at LTI.
 
- <!---
-<div align="center">
-  ![Snake animation](https://github.com/hitenshKharva/hitenshKharva/blob/output/github-contribution-grid-snake.svg)
-</div> -->
-<p align="center">
-  <h2 align="center">My Stats 🏆</h2>
+## Stack
 
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-<a href="https://github.com/hitenshKharva/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hitenshKharva&show_icons=true&include_all_commits=true&theme=onedark" alt="Hitensh's github stats" />
-</a>  
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hitensh streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hitenshKharva&theme=dark&hide_border=false" /> 
-</td>
+Python · SQL · TypeScript · Java · PySpark · Airflow · dbt · Iceberg · Redshift · Snowflake · AWS (Glue, Lambda, Step Functions, CDK, Bedrock) · LLMs · RAG · MCP
 
-<td width="50%" align="center">
+## Public projects
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hitenshKharva&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
+| Project | What it is |
+|---|---|
+| [Reddit Cloud Batch ELT](https://github.com/hitenshKharva/Reddit-Cloud-Batch-ELT) | Reddit API → S3 → Redshift → dbt → Looker Studio, with Airflow in Docker and Terraform |
+| [F1 Lakehouse on Azure](https://github.com/hitenshKharva/F1-Data-Analysis-with-Azure) | 70+ years of F1 data in Databricks with Delta Lake and incremental loads |
+| [E-Commerce Analytics on AWS](https://github.com/hitenshKharva/Ecommerce-Data-Engineering) | ~540K transactions through Lambda, Glue (PySpark), Redshift and Athena |
 
-<Br>
-<h2 align="center">Get in Touch! 📬</h2>
-<Br>
-<p align="center">
-<a href="https://www.linkedin.com/in/hitensh-kharva" target="blank"><img align="center" src="https://img.shields.io/badge/Hitensh Kharva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:hkharva3283@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/hkharva3283@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/hitenshKharva" target="blank"><img align="center" src="https://img.shields.io/badge/hitenshKharva-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-<!--
-**hitenshKharva/hitenshKharva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Certifications
 
-Here are some ideas to get you started:
+Microsoft Azure Data Engineer Associate · Stanford Algorithms Specialization · IBM Data Engineering Professional Certificate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+MS Computer Science, San Diego State University
